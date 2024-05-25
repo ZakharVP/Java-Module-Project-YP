@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -47,7 +46,7 @@ public class Main {
         boolean checkCost = true;
         boolean checkEnter = true;
         float cost = 0;
-        int count = 0;
+//        int count = 0;
         String product = "";
         Map<String,Float> receipt = new HashMap<String,Float>();
 
